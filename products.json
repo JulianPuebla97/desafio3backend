@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Remera Adidas",
+        "description": "Remera deportiva Adidas para entrenamiento.",
+        "price": 2500,
+        "thumbanil": "./media/products/remera-adidas.jpg",
+        "code": "P001",
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "title": "Camiseta Nike",
+        "description": "Camiseta deportiva Nike para entrenamiento.",
+        "price": 1500,
+        "thumbanil": "./media/products/camiseta-nike.jpg",
+        "code": "P002",
+        "stock": 15
+    },
+    {
+        "id": 3,
+        "title": "Short Puma",
+        "description": "Short deportivo Puma para entrenamiento.",
+        "price": 2000,
+        "thumbanil": "./media/products/short-puma.jpg",
+        "code": "P003",
+        "stock": 20
+    },
+    {
+        "id": 4,
+        "title": "Calzas Under Armour",
+        "description": "Calzas deportivas Under Armour para entrenamiento.",
+        "price": 1800,
+        "thumbanil": "./media/products/calzas-under-armour.jpg",
+        "code": "P004",
+        "stock": 12
+    },
+    {
+        "id": 5,
+        "title": "Pantalón Reebok",
+        "description": "Pantalón deportivo Reebok para entrenamiento.",
+        "price": 2200,
+        "thumbanil": "./media/products/pantalon-reebok.jpg",
+        "code": "P005",
+        "stock": 18
+    },
+    {
+        "id": 6,
+        "title": "Chaqueta Adidas",
+        "description": "Chaqueta deportiva Adidas para entrenamiento.",
+        "price": 3500,
+        "thumbanil": "./media/products/chaqueta-adidas.jpg",
+        "code": "P006",
+        "stock": 8
+    },
+    {
+        "id": 7,
+        "title": "Gorra Nike",
+        "description": "Gorra deportiva Nike para entrenamiento.",
+        "price": 1200,
+        "thumbanil": "./media/products/gorra-nike.jpg",
+        "code": "P007",
+        "stock": 25
+    },
+    {
+        "id": 8,
+        "title": "Zapatillas Puma",
+        "description": "Zapatillas deportivas Puma para entrenamiento.",
+        "price": 3000,
+        "thumbanil": "./media/products/zapatillas-puma.jpg",
+        "code": "P008",
+        "stock": 20
+    },
+    {
+        "id": 9,
+        "title": "Buzo Under Armour",
+        "description": "Buzo deportivo Under Armour para entrenamiento.",
+        "price": 2800,
+        "thumbanil": "./media/products/buzo-under-armour.jpg",
+        "code": "P009",
+        "stock": 10
+    },
+    {
+        "id": 10,
+        "title": "Medias Reebok",
+        "description": "Medias deportivas Reebok para entrenamiento.",
+        "price": 800,
+        "thumbanil": "./media/products/medias-reebok.jpg",
+        "code": "P010",
+        "stock": 30
+    }
+]
